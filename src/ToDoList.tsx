@@ -46,6 +46,8 @@ export default function ToDoList() {
     handleSubmit,
     formState: { errors },
     setError,
+    setValue,
+    reset,
   } = useForm<IFormData>({
     defaultValues: {
       email: "@naver.com",
@@ -62,6 +64,8 @@ export default function ToDoList() {
         { shouldFocus: true }
       );
     }
+    setValue("username", "");
+    // reset({ email: "", username: "", password: "", password1: "" });
   };
 
   return (
