@@ -5,3 +5,5 @@
 ### [제 2장 React Hook Form](https://delicate-credit-20c.notion.site/2-React-Hook-Form-9986912c836544478b47e3621909f283)
 
 ### [제 3장 Add To Do](https://delicate-credit-20c.notion.site/3-Add-To-Do-759fcd0d12e6436999a69636a39e7e20)
+
+### [제 4장 Refactoring](https://delicate-credit-20c.notion.site/4-Refactoring-793ce41f72a741a3b4eefc7baf888dc5)
