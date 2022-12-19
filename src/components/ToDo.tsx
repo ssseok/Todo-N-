@@ -11,6 +11,9 @@ export default function ToDo({ text, id, category }: IToDo) {
       )
     );
   };
+  const onDeleteClick = () => {
+    setToDos((prevToDos) => prevToDos.filter((todo) => todo.id !== id));
+  };
   return (
     <li>
       <span>{text}</span>
@@ -23,6 +26,7 @@ export default function ToDo({ text, id, category }: IToDo) {
       {category !== Categories.DONE && (
         <button onClick={() => onClick(Categories.DONE)}>Done</button>
       )}
+      <button onClick={onDeleteClick}>삭제</button>
     </li>
   );
 }
