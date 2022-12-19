@@ -15,3 +15,5 @@
 ### [제 7장 Enums](https://delicate-credit-20c.notion.site/7-Enums-5126c87f5e4d4a669fb2a3c030d97612)
 
 ### [제 8장 Delete To Do](https://delicate-credit-20c.notion.site/8-Delete-To-Do-b5dd14aaaff24d3e86b5c168259bdfac)
+
+### [제 9장 LocalStorage](https://delicate-credit-20c.notion.site/9-LocalStorage-e7aa7f9e589046958c0211880c054701)
