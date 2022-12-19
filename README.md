@@ -13,3 +13,5 @@
 ### [제 6장 Recoil Selectors](https://delicate-credit-20c.notion.site/6-Recoil-Selectors-eb3bde6122c740f99851c6134299900e)
 
 ### [제 7장 Enums](https://delicate-credit-20c.notion.site/7-Enums-5126c87f5e4d4a669fb2a3c030d97612)
+
+### [제 8장 Delete To Do](https://delicate-credit-20c.notion.site/8-Delete-To-Do-b5dd14aaaff24d3e86b5c168259bdfac)
