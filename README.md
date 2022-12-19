@@ -9,3 +9,5 @@
 ### [제 4장 Refactoring](https://delicate-credit-20c.notion.site/4-Refactoring-793ce41f72a741a3b4eefc7baf888dc5)
 
 ### [제 5장 Category Update](https://delicate-credit-20c.notion.site/5-Category-Update-1e9c92381163491e83b508831b8abdb2)
+
+### [제 6장 Recoil Selectors](https://delicate-credit-20c.notion.site/6-Recoil-Selectors-eb3bde6122c740f99851c6134299900e)
