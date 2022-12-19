@@ -11,3 +11,5 @@
 ### [제 5장 Category Update](https://delicate-credit-20c.notion.site/5-Category-Update-1e9c92381163491e83b508831b8abdb2)
 
 ### [제 6장 Recoil Selectors](https://delicate-credit-20c.notion.site/6-Recoil-Selectors-eb3bde6122c740f99851c6134299900e)
+
+### [제 7장 Enums](https://delicate-credit-20c.notion.site/7-Enums-5126c87f5e4d4a669fb2a3c030d97612)
